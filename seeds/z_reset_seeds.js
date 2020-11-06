@@ -25,4 +25,4 @@ exports.seed = (knex) => {
           })
         })
     }
-  }
+  } 
